@@ -1,4 +1,4 @@
-# Fdora37-activate-gnomex11
+# Fdora37-activate-gnome-X11
 
 Fedora 37, by default, doesn't include X11 gnome; some apps still have issues with Wayland, it's hard to find the correct steps, so I'll leave them here.
 
