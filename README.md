@@ -11,4 +11,4 @@ After installation, you need to modify the sshd_config, change ``X11Forwarding n
 ``sudo vi /etc/ssh/sshd_config``
 after changing it, hit ``esc`` key then type ``:w``
 
-You can log out from the current desktop environment, and a gear option should appear at the bottom right corner with new options.
+You can log out from your current desktop environment, and a gear option should appear at the bottom right corner with new options.
