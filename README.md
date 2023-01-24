@@ -1,6 +1,8 @@
-# Fdora37-activate-gnome-X11
+# Fdora37-add-gnome-X11
 
-Fedora 37, by default, doesn't include X11 gnome; some apps still have issues with Wayland, it's hard to find the correct steps, so I'll leave them here.
+Add Gnome X11 + both classic environments on Fedora 37 (After installing Fedora 37, updates include this for you).
+
+In case updates don't do it for you, follow these steps.
 
 First, open the terminal and install it with this command.
 
