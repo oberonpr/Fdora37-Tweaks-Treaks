@@ -1,6 +1,6 @@
 # Add-gnome-X11-Fdora37
 
-Add Gnome X11 + both classic environments on Fedora 37 (After installing Fedora 37, updates/upgrades include this for you).
+How to add Gnome X11 + both classic environments on Fedora 37 (After installing Fedora 37, updates/upgrades include this for you).
 
 If updates/upgrades don't do it for you or for whatever other reason, follow these steps:
 
